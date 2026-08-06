@@ -242,6 +242,13 @@ alt="GitHub Contribution Snake"/>
 
 </p>
 
+# Current Focus
+
+- 🚀 Building **Repolore**, an AI-powered documentation generator.
+- 📚 Studying Software Analysis and Development (ADS).
+- ☁️ Learning modern backend architecture with Supabase and OpenRouter.
+- 🎯 Focused on creating high-quality software and open-source projects.
+
 ---
 
 # Let's Connect
