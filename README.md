@@ -35,7 +35,7 @@ Building software, one project at a time.
 <table>
 <tr>
 
-<td width="36%" valign="top" align="center">
+<td width="36%" valign="middle" align="center">
 
 <img src="./assets/gifs/yuji-idle.gif" width="100%">
 
@@ -53,15 +53,11 @@ Building software, one project at a time.
 
 Analysis and Systems Development Student
 
-<br>
-
 ### Focus
 
 - Web Development
 - Artificial Intelligence
 - SaaS Development
-
-<br>
 
 ### Current Projects
 
