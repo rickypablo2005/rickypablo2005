@@ -222,10 +222,23 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=rickypablo20
 
 </p>
 
+<br>
+
 <p align="center">
 
 <img
 src="https://streak-stats.demolab.com?user=rickypablo2005&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img
+width="100%"
+src="https://raw.githubusercontent.com/rickypablo2005/rickypablo2005/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"/>
 
 </p>
 
